@@ -1,1 +1,1 @@
-my one page for a hotel website
+my single page for a hotel website
